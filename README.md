@@ -4,17 +4,16 @@
 <img align='right' src="https://media1.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e47yvmdb2do7n27eaitsqafb62bkzsidma6evltkedr&rid=giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-I am currently working as a Full Stack Software Developer at [Speaky Peaky](https://www.speakypeaky.com/).
+I am currently learing Full Stack Software Development at [Masai School](https://www.masaischool.com).
 
 
 ## I'm interested in job offers! 🏢 🏃‍♂️💨
 
 If you'd like me to come work on one of your projects, you can reach me on:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Hemant%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-soni-97427b193/)](https://www.linkedin.com/in/hemant-soni-97427b193/)
-- [Angelist](https://angel.co/u/hemantso)
+- [![Linkedin Badge](https://img.shields.io/badge/-Rajat%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-soni-ba1a6a16a/)](https://www.linkedin.com/in/rajat-soni-ba1a6a16a/)
 
 
-Or you can contact me through [my portfolio page](https://hemantsoni.netlify.app/) 💼!
+Or you can contact me through [my portfolio page]() 💼!
 
 ### Cheers and Happy hacking! 😁👍💻
