@@ -14,6 +14,6 @@ If you'd like me to come work on one of your projects, you can reach me on:
 - [![Linkedin Badge](https://img.shields.io/badge/-Rajat%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajat-soni-ba1a6a16a/)](https://www.linkedin.com/in/rajat-soni-ba1a6a16a/)
 
 
-Or you can contact me through [my portfolio page]() 💼!
+Or you can contact me through [my portfolio page](https://rajatsoni.netlify.app/) 💼!
 
 ### Cheers and Happy hacking! 😁👍💻
