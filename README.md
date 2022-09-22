@@ -9,8 +9,7 @@
 <p align="left">
  <a href="https://rajatsoni.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="rajatsoni08" /></a>
 <a href="https://www.linkedin.com/in/rajatsoni08/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rajatsoni08"  /></a>  
- <a href="https://https://rajatsoni.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="rajatsoni08" /></a>
-   
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
