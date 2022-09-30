@@ -37,21 +37,23 @@
 
 <h3 align="left">Github Stats:</h3>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajat-soni-vst-au4&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117,000000,130F40" alt="Rajatsoni" /></p>
-
-<p align="center">
-    <a href="https://github.com/Rajat-soni-vst-au4/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat-soni-vst-au4&theme=black-ice&hide_border=true&stroke=0000&bg_color=0,000000,130F40,012780"/>
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/Rajat-soni-vst-au4/github-readme-stats"><img alt="Rajat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rajat-soni-vst-au4&show_icons=true&count_private=true&show_owner=ture&theme=react&hide_border=true&bg_color=0,000000,190F40,190F40" /></a>
-    </p>
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Rajat-soni-vst-au4&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-soni-vst-au4&layout=compact&theme=midnight-purple" />
+</div>
  
+<br />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat-soni-vst-au4&theme=vision-friendly-dark" alt=""/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rajat-soni-vst-au4&no-frame=true" alt=""/></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajat-soni-vst-au4&theme=tokyonight" alt="summarycard"/> </p>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
+<hr />
+ 
+<br>
+<h3 align="center"> 
+  Visitor count <br><br>
+  <img  src="https://profile-counter.glitch.me/Rajat-soni-vst-au4/count.svg" />
+</h3>
 
 
 ### Cheers and Happy hacking! 😁👍💻
