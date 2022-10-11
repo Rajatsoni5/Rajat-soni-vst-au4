@@ -1,4 +1,4 @@
-![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
+
 
 <h1 align="center">Hi, I am Rajat Soni</h1>
 <h4 align="center">A passionate Full-Stack Web Developer who loves to create smart and highly polished interfaces for the web 💻. I like learning new things to cordinate better with new technologies.</h4>
