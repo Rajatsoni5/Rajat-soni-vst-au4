@@ -57,7 +57,7 @@
 </div>
  
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajat-soni-vst-au4&theme=vision-friendly-dark" alt=""/></p>
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rajat-soni-vst-au4&no-frame=true" alt=""/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajat-soni-vst-au4&theme=tokyonight" alt="summarycard"/> </p>
 
