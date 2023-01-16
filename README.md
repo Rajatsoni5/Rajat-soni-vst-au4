@@ -1,4 +1,4 @@
-![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
+<!-- ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png) -->
 
 <h1 align="center">Hi, I am Rajat Soni</h1>
 <h4 align="center">A passionate Full-Stack Web Developer who loves to create smart and highly polished interfaces for the web 💻. I like learning new things to cordinate better with new technologies.</h4>
@@ -46,13 +46,6 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<hr>
-<div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Rajat-soni-vst-au4&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-soni-vst-au4&layout=compact&theme=midnight-purple" />
-</div>
- 
 <br />
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rajat-soni-vst-au4&no-frame=true" alt=""/></p>
